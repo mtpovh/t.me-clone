@@ -61,7 +61,7 @@ if (url[1].length > 0)
   </form>
   <footer class="footer">
     <div class="container">
-      <span class="text-muted"><a href="https://mtp.ovh">mtp.ovh</a> &#183; <a href="tg://resolve?domain=mtp_ovh">@mtp_ovh</a></span>
+      <span class="text-muted"><a href="https://github.com/mtpovh/t.me-clone">Source code</a> &#183; <a href="https://mtp.ovh">mtp.ovh</a> &#183; <a href="tg://resolve?domain=mtp_ovh">@mtp_ovh</a></span>
     </div>
   </footer>
 </body>
