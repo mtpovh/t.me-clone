@@ -1,6 +1,6 @@
 <?php
-$mydomain = "t.mtp.ovh"; //домен сайта
-$myprotocol = "https://"; //Протокол сайта. "http://" или "https://"
+$mydomain = "t.mtp.ovh"; // site domain name
+$myprotocol = "https://"; // site protocol "http://" or "https://"
 
 echo <<<HTML
 <!doctype html>
